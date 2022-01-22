@@ -1,0 +1,83 @@
+table#tabela-spec {
+  width: auto;
+  border: 1px solid #606060;
+  border-spacing: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 1rem;
+  }
+  table#tabela-spec tr {
+  color: #ffffff;
+  background: #32264D;
+  font-weight: bold;
+  }
+  table#tabela-spec td {
+  text-align: center;
+  color: black;
+  background: white;
+  border: 1px solid #606060;
+  padding: 1rem;
+  }
+  table#tabela-spec th {
+  border: 1px solid #606060;
+  padding: 0 10px;
+  text-align: center;
+  vertical-align: middle;
+  }
+
+table#options {
+  width: auto;
+  border: 2px solid;
+  margin: auto;
+  margin-bottom: 1rem;
+}
+
+table#options tr {
+  height: 50px;
+  border: 2px solid;
+}
+
+table#options td {
+  padding: 5px;
+  margin: auto;
+  width: auto;
+  border: 2px solid;
+}
+
+table#options th {
+  height: 50px;
+  border: 2px solid;
+}
+
+img.car-parts {
+  max-width:200px;
+  max-height:200px;
+  width: auto;
+  height: auto;
+  margin-left: 50px;
+}
+
+img.ar {
+  max-width:20px;
+  max-height:20px;
+}
+
+div.adre {
+  align-items: center;
+  display: flex;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-right: 10px;
+}
+
+span {
+  margin-right: 15px;
+}
+
+a {
+  margin-top: 5px;
+  margin-right: 10px;
+}
